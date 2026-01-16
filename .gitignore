@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+datasets/raw/
+datasets/processed/train.txt
+
+models/
+*.gguf
+*.bin
+
+tools/llama.cpp/
